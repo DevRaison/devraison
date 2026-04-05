@@ -1,11 +1,11 @@
-## Olá! Eu sou o Raison Silva 🖐️
+## Hey, I'm Raison Silva 🖐️
 
-Software Engineer com foco em backend, APIs RESTful e sistemas escaláveis, com experiência no desenvolvimento de aplicações web completas, integrando frontend e backend com boas práticas de arquitetura e engenharia de software.
+Software Engineer focused on backend development, RESTful APIs, and scalable systems, with experience building end-to-end web applications, integrating frontend and backend using solid software engineering and architectural best practices.
 
 ---
-## 🚀 Minhas stacks principais
+## 🚀 Core Tech Stack
 
-### 💻 Linguagens
+### 💻 Languages
 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -15,14 +15,14 @@ Software Engineer com foco em backend, APIs RESTful e sistemas escaláveis, com 
 
 ---
 
-### ⚙️ Frameworks, Runtime & Bibliotecas
+### ⚙️ Frameworks, Runtime & Libraries
 
 <div style="display: inline_block">
-  <!-- Backend principal -->
+  <!-- Backend -->
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img align="center" alt="spring-cloud" src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 
-  <!-- Runtime JS -->
+  <!-- JavaScript Runtime -->
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
   <!-- Frontend -->
@@ -32,7 +32,7 @@ Software Engineer com foco em backend, APIs RESTful e sistemas escaláveis, com 
 
 ---
 
-### 🗄️ Banco de Dados
+### 🗄️ Databases
 
 <div style="display: inline_block">
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -41,7 +41,7 @@ Software Engineer com foco em backend, APIs RESTful e sistemas escaláveis, com 
 
 ---
 
-### ☁️ DevOps & Infraestrutura
+### ☁️ DevOps & Infrastructure
 
 <div style="display: inline_block">
   <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -51,19 +51,20 @@ Software Engineer com foco em backend, APIs RESTful e sistemas escaláveis, com 
 
 ---
 
-### 🧱 Arquitetura & Engenharia de Software
+### 🧱 Architecture & Software Engineering
 
-- Arquitetura de microsserviços com foco em escalabilidade horizontal, resiliência e baixo acoplamento  
-- Design e implementação de APIs RESTful com versionamento, segurança e controle de performance  
-- Modelagem orientada a domínio com Domain-Driven Design (DDD)  
-- Aplicação de Clean Architecture para separação de responsabilidades e manutenção de longo prazo  
-- Comunicação assíncrona baseada em eventos (Event-Driven Architecture)  
-- CQRS para separação de leitura e escrita em cenários de alta demanda  
-- Processamento assíncrono com mensageria (Kafka / RabbitMQ) visando throughput e desacoplamento  
-- Aplicação de princípios SOLID e boas práticas de engenharia de software  
-- Uso de Node.js para construção de serviços leves, integrações e camadas BFF (Backend for Frontend)  
+- Microservices architecture focused on horizontal scalability, resilience, and loose coupling  
+- Design and implementation of RESTful APIs with versioning, security, and performance optimization  
+- Domain modeling using Domain-Driven Design (DDD)  
+- Application of Clean Architecture for clear separation of concerns and long-term maintainability  
+- Event-driven architecture for asynchronous communication  
+- CQRS pattern for separating read and write workloads in high-demand scenarios  
+- Asynchronous processing with messaging systems (Kafka / RabbitMQ) to improve throughput and decoupling  
+- Strong adherence to SOLID principles and software engineering best practices  
+- Use of Node.js for lightweight services, integrations, and BFF (Backend for Frontend) layers  
 
 ---
-## 📚 Atualmente estudando
 
-Atualmente estudando **Go (Golang)**, com foco na construção de serviços de alta performance, explorando concorrência, paralelismo e aplicações em sistemas distribuídos.
+## 📚 Currently Learning
+
+Currently studying **Go (Golang)**, focusing on building high-performance services, exploring concurrency, parallelism, and its applications in distributed systems.
